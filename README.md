@@ -2,6 +2,7 @@
 
 #### I'm an Android Developer who is passionate about Technology and how it can be leveraged to affect communities positively. I'm focused on developing highly scalable mobile applications using my technical skills.
 
+- 🔭 I’m currently working on all things mobile android design/ web design
 <!--
 **kinsomaz/kinsomaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
