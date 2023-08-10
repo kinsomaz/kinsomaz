@@ -1,4 +1,6 @@
-<p align="centre">## Hi there 👋, I'm Akinlade Abdulsamad Gbolahan</p>
+## Hi there 👋, I'm Akinlade Abdulsamad Gbolahan
+
+#### I'm an Android Developer who is passionate about Technology and how it can be leveraged to affect communities positively. I'm focused on developing highly scalable mobile applications using my technical skills.
 
 <!--
 **kinsomaz/kinsomaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
