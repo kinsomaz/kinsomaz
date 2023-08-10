@@ -1,4 +1,4 @@
-#### Hi there 👋, I'm Akinlade Abdulsamad Gbolahan
+## Hi there 👋, I'm Akinlade Abdulsamad Gbolahan
 
 <!--
 **kinsomaz/kinsomaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
