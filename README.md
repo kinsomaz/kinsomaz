@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Akinlade Abdulsamad Gbolahan
 
-#### I'm an Mobile Developer who is passionate about Technology and how it can be leveraged to affect communities positively. I'm focused on developing highly scalable mobile applications using my technical skills.
+#### I'm a Mobile Developer who is passionate about Technology and how it can be leveraged to affect communities positively. I'm focused on developing highly scalable mobile applications using my technical skills.
 
 - 🔭 I’m currently working on all things mobile development/ web design
 - 👯 I’m looking to collaborate on Mobile and Backend Projects
